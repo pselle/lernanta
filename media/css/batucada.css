@@ -531,10 +531,10 @@ header {}
         #inbox-count {
           padding: 0 3px;
           margin-left: 5px;
-          border: 1px solid #f60403;
+          border: 1px solid #cef200;
           background: -webkit-gradient(linear,left bottom,left top,color-stop(0.45, rgb(208,4,4)),color-stop(0.55, rgb(254,31,35)));
-          background: -moz-linear-gradient(center bottom, rgb(208,4,4) 45%, rgb(254,31,35) 55%);
-          -pie-background: linear-gradient(center bottom, rgb(208,4,4) 45%, rgb(254,31,35) 55%);
+          background: -moz-linear-gradient(center bottom, rgb(206,242,0) 45%, rgb(206,242,0) 55%);
+          -pie-background: linear-gradient(center bottom, rgb(206,242,0) 45%, rgb(206,242,0) 55%);
           border-radius: 6px;
           -moz-border-radius: 6px;
           -o-border-radius: 6px;
